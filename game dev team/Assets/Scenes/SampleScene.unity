@@ -1908,7 +1908,7 @@ Light:
     m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
-    m_Strength: 1
+    m_Strength: 0
     m_Bias: 0.05
     m_NormalBias: 0.4
     m_NearPlane: 0.2
@@ -2364,7 +2364,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: b628e5bdeda1bda4bab3cbb609a6296e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2601,7 +2601,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: b628e5bdeda1bda4bab3cbb609a6296e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8784,25 +8784,9 @@ MonoBehaviour:
   m_Mesh: {fileID: 117498729}
   m_VersionIndex: 14021
   m_IsSelectable: 1
-  m_SelectedFaces: 4e00000062000000
-  m_SelectedEdges:
-  - a: 312
-    b: 313
-  - a: 314
-    b: 312
-  - a: 313
-    b: 315
-  - a: 315
-    b: 314
-  - a: 392
-    b: 393
-  - a: 394
-    b: 392
-  - a: 393
-    b: 395
-  - a: 395
-    b: 394
-  m_SelectedVertices: 38010000390100003a0100003b01000088010000890100008a0100008b010000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &1607921795
 Transform:
   m_ObjectHideFlags: 0
