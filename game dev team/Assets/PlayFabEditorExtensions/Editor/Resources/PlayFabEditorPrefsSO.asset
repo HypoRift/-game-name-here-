@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
   m_Name: PlayFabEditorPrefsSO
   m_EditorClassIdentifier: 
-  DevAccountEmail: Montyman00@gmail.com
-  DevAccountToken: zjjucy7d31qhb3mdkrxn6ts966dq547zy1umnizg3zog8y8pfifhjyos4kzs6kx6uknqe7qnt6zhg88tptnu5ubpwddpmnjgp4aac3it7b8rawbxkp5t1uqzjgy5kajo4cdp9nnpr6muutikc8a3iyckhtnaty8ya1kkob3xtxrn56oyxnwywdzqbfk7zqqr894nte1h
+  DevAccountEmail: colobus124@gmail.com
+  DevAccountToken: wmonycq1zpsm9sczc4do3e79q5c9k9zf8femrmf9e8z1dsg5ik8em6jqqsz41soh9s7brgbmfkz643cix45bnq4y11cwexotdf37w8z9tbbiurcyhuoq5yswox9hn7fp339zdxisfpd3sxxsf44itnd35qgpergpf4y364jakz9gbupsje7bg8krejy1nzed8drmr1bo
   SelectedStudio: Colobus
   SdkPath: Assets/PlayFabSDK
   EdExPath: 
